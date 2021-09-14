@@ -64,6 +64,11 @@ span{
   background-color: yellow;
 }
 
+
+table{
+  border-collapse: collapse;
+}
+
 .prima-riga {
   background-color: rgb(21, 121, 253);
   color: white;
