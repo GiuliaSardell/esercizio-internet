@@ -10,7 +10,7 @@ body{
   background-color: lightskyblue;
   background-image: url("../img/pattern.png");
   
-  background-size: contain;
+  background-size: 50%;
 }
 
 h2{
@@ -37,3 +37,14 @@ header a{
 .data{
   font-size: 10px;
 }
+
+span{
+  color: gray;
+}
+
+
+.img-affiancata {
+  height: 200px;
+  width: 50%;
+}
+
